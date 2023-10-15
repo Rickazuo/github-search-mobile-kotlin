@@ -1,0 +1,8 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.GitHubSearch" parent="@style/Theme.Design">
+        <item name="icon">@mipmap/ic_launcher</item>
+        <item name="colorPrimary">@color/actionBar</item>
+        <item name="colorPrimaryDark">@color/background</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitHubSearch</string>
+    <string name="user_name">Username</string>
+    <string name="search_button">Search</string>
+    <string name="ic_share_description">Share Icon</string>
+    <string name="response_error">User not found</string>
+    <string name="ic_wifi_off_description">Internet connection lost</string>
+    <string name="text_wifi_off">Internet connection lost</string>
+</resources>
